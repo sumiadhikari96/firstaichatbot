@@ -3,7 +3,7 @@ import streamlit as st
 import requests
 
 # Set your Together API key here
-TOGETHER_API_KEY = "f4816e6d5c5698ba7ae4a710536804c3070ce8a823e87f8b7dad5cbf39d0ad56"
+TOGETHER_API_KEY = "f4816e6d5c5698ba7ae4a71053680e87f8b7dad5cbf39d0ad56"
 
 # System prompt for the career coach bot
 system_prompt = """
